@@ -1,0 +1,9 @@
+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
+
+echo "# rambomb" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/savekrishna/rambomb.git
+git push -u origin main
